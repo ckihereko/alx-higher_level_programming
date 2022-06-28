@@ -1,4 +1,0 @@
-#!/bin/bash
-export PYFILE=my_main.py
-python3 import $PYFILE
-export PYFILEc=my_main.pyc
